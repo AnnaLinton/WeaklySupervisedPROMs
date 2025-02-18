@@ -6,4 +6,4 @@ The methods used in this paper are:
 2. BERTopic
 3. Guided LDA 
 4. WeSTClass - [Original Repository is found here](https://github.com/yumeng5/WeSTClass)
-5. XClass - [Original Repository is found here] (https://github.com/ZihanWangKi/XClass)
+5. XClass - [Original Repository is found here](https://github.com/ZihanWangKi/XClass)
